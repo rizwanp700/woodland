@@ -64,13 +64,13 @@
     height: 36px;
     margin-top: 10px;
     border-radius: 5px;
-    
+    padding-left: 30px;
 
 }
 .bar{
     position: absolute;
     top: 55px;
-    right: 230px;
+    right: 190px;
 
 }
 .main{
